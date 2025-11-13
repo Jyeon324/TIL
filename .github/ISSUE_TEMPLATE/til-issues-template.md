@@ -7,14 +7,14 @@ labels: "docs"
 assignees: ""
 ---
 
-## 🚀 오늘 학습할 주제
+## 🚀 The topic I'm going to learn today
 
-## ✅ 학습 체크리스트
+## ✅ Learning Checklist
 
 - [ ]
 - [ ]
 - [ ]
 
-## 🔗 참고 자료 (References)
+## 🔗 References
 
 - [공식 문서](링크)
