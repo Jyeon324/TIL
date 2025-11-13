@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="943dd305-8aad-4446-b47c-e2f9ed387b1f" name="Changes" comment="docs(git): Add githhub-issues.md">
-      <change beforePath="$PROJECT_DIR$/.github/til-issues-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/til-issues-template.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TIL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/TIL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/til-issues-template.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/til-issues-template.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +62,7 @@
       <updated>1761630089088</updated>
       <workItem from="1761630090143" duration="20265000" />
       <workItem from="1762179991842" duration="7001000" />
-      <workItem from="1762415592126" duration="5497000" />
+      <workItem from="1762415592126" duration="5597000" />
     </task>
     <task id="LOCAL-00001" summary="docs(git): Add githhub-issues.md">
       <option name="closed" value="true" />
