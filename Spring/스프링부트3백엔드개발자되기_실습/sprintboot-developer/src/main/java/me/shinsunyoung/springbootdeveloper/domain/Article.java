@@ -5,7 +5,13 @@ import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.springframework.data.annotation.CreatedDate;
+import org.springframework.data.annotation.LastModifiedDate;
+import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
+import java.time.LocalDateTime;
+
+@EntityListeners(AuditingEntityListener.class)
 @Entity //엔티티로 지정
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
@@ -32,4 +38,12 @@ public class Article {
         this.title = title;
         this.content = content;
     }
+
+    @CreatedDate //엔티티가 생성되어 저장될 때 시간이 자동 저장
+    @Column(name="created_at")
+    private LocalDateTime createdAt;
+
+    @LastModifiedDate
+    @Column(name="updated_at")
+    private LocalDateTime updatedAt;
 }
